@@ -1,0 +1,13 @@
+material,density_g_cm3,k_edge_keV,category,description
+Water,1.00,,tissue,H2O
+Fat,0.95,,tissue,adipose (ICRU)
+SoftTissue,1.06,,tissue,ICRU-44 soft tissue
+HA,3.16,,bone,hydroxyapatite Ca10(PO4)6(OH)2
+Iodine,4.93,33.169,contrast,pure element Z=53 (K-edge in range)
+Iron,7.87,7.112,metal,pure element Z=26 (K-edge below range)
+Titanium,4.51,4.966,implant,pure Ti grade 4 (K-edge below range)
+StainlessSteel,8.0,,implant,316L Fe68/Cr17/Ni14/Co1 (alloy)
+CoCr,8.3,,implant,Vitallium Co66/Cr28/Ni6 (alloy)
+Tantalum,16.7,67.416,implant,pure Ta Z=73 (K-edge in range)
+Platinum,21.5,78.395,implant,pure Pt Z=78 (K-edge in range)
+Gold,19.3,80.725,implant,pure Au Z=79 (K-edge in range)
